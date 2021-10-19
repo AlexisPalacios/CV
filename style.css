@@ -1,0 +1,20 @@
+table{
+    border-collapse: collapse;
+}
+
+td{
+    padding: 24px;
+}
+
+.logo{
+    height: 36px;
+    width: 36px;
+    border-radius: 180px;
+}
+
+#alePhoto{ 
+    border-radius: 180px;
+    height: 256px;
+    margin: 0px;
+    width: 256px;
+}
